@@ -1,0 +1,17 @@
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\bin\Debug\net8.0\ProjetoConsultarClimaC#.exe
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\bin\Debug\net8.0\ProjetoConsultarClimaC#.deps.json
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\bin\Debug\net8.0\ProjetoConsultarClimaC#.runtimeconfig.json
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\bin\Debug\net8.0\ProjetoConsultarClimaC#.dll
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\bin\Debug\net8.0\ProjetoConsultarClimaC#.pdb
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\obj\Debug\net8.0\ProjetoConsultarClimaC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\obj\Debug\net8.0\ProjetoConsultarClimaC#.AssemblyInfoInputs.cache
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\obj\Debug\net8.0\ProjetoConsultarClimaC#.AssemblyInfo.cs
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\obj\Debug\net8.0\ProjetoConsultarClimaC#.csproj.CoreCompileInputs.cache
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\obj\Debug\net8.0\ProjetoConsultarClimaC#.dll
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\obj\Debug\net8.0\refint\ProjetoConsultarClimaC#.dll
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\obj\Debug\net8.0\ProjetoConsultarClimaC#.pdb
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\obj\Debug\net8.0\ProjetoConsultarClimaC#.genruntimeconfig.cache
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\obj\Debug\net8.0\ref\ProjetoConsultarClimaC#.dll
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\obj\Debug\net8.0\ProjetoConsultarClimaC#.csproj.AssemblyReference.cache
+D:\RepositorioC#\OpenWeatherC#\ProjetoConsultarClimaC#\obj\Debug\net8.0\ProjetoConsultarClimaC#.csproj.CopyComplete

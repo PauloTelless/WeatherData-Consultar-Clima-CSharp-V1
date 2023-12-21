@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gz2k+n6mPcA8XrstKCw3KKqtn8blk1/GBOXZsrGDuhVfaE2LQu881RHa2rcRmJGjNG7pS5lWcHvmXzY7QyAxsA==",
+  "success": true,
+  "projectFilePath": "D:\\RepositorioC#\\OpenWeatherC#\\ProjetoConsultarClimaC#\\ProjetoConsultarClimaC#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
