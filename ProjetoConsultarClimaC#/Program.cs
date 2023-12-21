@@ -7,7 +7,7 @@ namespace ProjetoConsultarClimaC_
     {
         static async Task Main(string[] args)
         {
-            const string API_KEY = "e1d46f324e963f3d1654a81751c807cf";
+            const string API_KEY = "";
 
             while (true)
             {
